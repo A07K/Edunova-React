@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Edunova-React/static/css/main.914de97c.css",
+    "main.js": "/Edunova-React/static/js/main.2672ed32.js",
+    "index.html": "/Edunova-React/index.html",
+    "main.914de97c.css.map": "/Edunova-React/static/css/main.914de97c.css.map",
+    "main.2672ed32.js.map": "/Edunova-React/static/js/main.2672ed32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.914de97c.css",
+    "static/js/main.2672ed32.js"
+  ]
+}
